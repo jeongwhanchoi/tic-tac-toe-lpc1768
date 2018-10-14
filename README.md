@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg)![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)[Imgbot](https://img.shields.io/badge/imgbot-optimized-lightgrey.svg)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg)![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg) ![Imgbot](https://img.shields.io/badge/imgbot-optimized-lightgrey.svg)
 
 
 
