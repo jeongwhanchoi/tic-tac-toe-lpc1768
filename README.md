@@ -10,7 +10,6 @@
 
 - [Flow Chart](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768###flow-chart)
 - [Interface](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768###interface)
-- https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768#what-is-the-tic-tac-toe-game
 - [Game Display](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768###game-display)
 	- [Intro GUI](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768####intro-gui)
 	- [Game GUI](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768####game-gui)
