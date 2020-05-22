@@ -6,15 +6,17 @@
 
 **Table of Contents**
 
-- [What is the Tic-Tac-Toe game?](###What is the Tic-Tac-Toe game?)
-- [Flow Chart](### Flow Chart)
-- [Interface](### Interface)
-- [Game Display](### Game Display)
-	- [Intro GUI](#### Intro GUI)
-	- [Game GUI](#### Game GUI)
-	- [Game Play](#### Game Play)
-	- [Player O Win Result ](#### Player O Win Result )
-	- [The game end in a draw](#### The game end in a draw)
+- [What is the Tic-Tac-Toe game?](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768#what-is-the-tic-tac-toe-game)
+
+- [Flow Chart](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768###flow-chart)
+- [Interface](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768###interface)
+- https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768#what-is-the-tic-tac-toe-game
+- [Game Display](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768###game-display)
+	- [Intro GUI](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768####intro-gui)
+	- [Game GUI](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768####game-gui)
+	- [Game Play](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768####game-play)
+	- [Player O Win Result ](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768####player-0-win-result )
+	- [The game end in a draw](https://github.com/jeongwhanchoi/tic-tac-toe-lpc1768####the-game-end-in-a-draw)
 
 
 ## Tic-Tac-Toe Game lpc 1768 Project 
